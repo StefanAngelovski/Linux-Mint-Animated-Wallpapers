@@ -4,7 +4,7 @@ Make animated wallpapers work on Linux Mint by running videos on the desktop bac
 
 This repository contains a minimal startup script (startup.sh) and instructions to run an animated wallpaper at login. It uses an xwinwrap build (see installation note below) to embed a video on the background and mpv to play the video.
 
-[Will enter picture here]
+![wallpaper](https://github.com/user-attachments/assets/848aeacc-ba1f-4f64-8415-26f3c0a4e670)
 
 ## Features
 
