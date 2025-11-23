@@ -2,7 +2,7 @@
 # --- Launch xwinwrap wallpaper ---
 sleep 2
 xwinwrap -b -s -fs -st -sp -nf -fdt -- \
-mpv -wid WID --loop --no-audio /home/phys/Videos/AnimatedWallpapers/Windmills.mp4 &
+mpv -wid WID --loop --no-audio $HOME/Videos/AnimatedWallpapers/Windmills.mp4 &
 
 # Wait a moment for xwinwrap to initialize
 sleep 1
